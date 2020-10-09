@@ -1,6 +1,6 @@
 # DNA Visualization
 
-Visit <https://chuling.github.io/dna-visualization/> to use this DNA Visualization Tool.
+Visit <https://chuling.xyz/dna-visualization/> to use this DNA Visualization Tool.
 
-* Author: github.com/chuling
+* Author: Ling CHU
 * License: Apache-2.0
